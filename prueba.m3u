@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:tvg-name="CARACOL HD H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="COLOMBIA",CARACOL HD H2
+#EXTINF:0 CUID="01" tvg-name="CARACOL HD H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="COLOMBIA",CARACOL HD H2
 http://red4tv.lat/live/tsaszk28y9/a4zcf77rjj/570022.ts
 #EXTINF:0 CUID="375" tvg-name="WIN SPORTS+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="COLOMBIA",WIN SPORTS+
 http://red4tv.lat/live/tsaszk28y9/a4zcf77rjj/576206.ts
