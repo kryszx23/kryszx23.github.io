@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 CUID="712" tvg-name="CARACOL HD H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="COLOMBIA",CARACOL HD H2
+#EXTINF:0 CUID="712" tvg-name="CARACOL HD H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Caracol_TV_HD_logo.svg" group-title="COLOMBIA",CARACOL HD H2
 http://red4tv.lat/live/tsaszk28y9/a4zcf77rjj/570022.ts
 #EXTINF:0 CUID="687" tvg-name="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/RCN_Televisi%C3%B3n_Nueva_Imagen.png" group-title="COLOMBIA",RCN HD
 http://red4tv.lat/live/tsaszk28y9/a4zcf77rjj/570091.ts
